@@ -1,5 +1,5 @@
 # Data-Pipeline-Project
-This project implements a Data Pipeline for analyzing **loan approval dataset. The script (`data_pipeline.py`) processes loan approval data, handles missing values and transforms variables.
+This project implements a Data Pipeline for analyzing **loan approval dataset. The script (`data_pipeline.py`) processes loan approval data, handles missing values,incorrect variable types, and out-of-range numerical values and transforms variables.
 
 # Project Structure
 - **data_pipeline.py**: Main script for the Data Pipeline.
@@ -12,7 +12,6 @@ The Data Pipeline follows the guidelines outlined in the project instructions.
 
 # Alerts
 - The script provides alerts about the percentage of rows deleted from the total data.
-- Handle exceptions for missing values, incorrect variable types, and out-of-range numerical values.
 
 ## Additional Data Analysis
 In addition to data pipeline, work was done in Excel and presentation of the insights in a PPT presentation in accordance with additional instructions for the project:
