@@ -21,5 +21,6 @@ In addition to data pipeline, work was done in Excel and presentation of the ins
 3. **Pivot Table and Graphs:**
    - Produce a Pivot Table for each independent variable with the dependent variable.
    - Create suitable graphs according to variable types.    
-4. **Generate Insights:** Generate initial insights/hypotheses from the data.
+4. **Generate Insights:** Generate initial insights/hypotheses from the data. For Example:![image](https://github.com/InbalTb/Data-Pipeline-Project/assets/132600292/31d37cda-8e8d-48cf-8080-203d643817b6)
+
 
