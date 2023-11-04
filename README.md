@@ -1,5 +1,5 @@
 # Data-Pipeline-Project
-This project implements a Data Pipeline for analyzing **loan approval dataset. The script (`data_pipeline.py`) processes loan approval data, handles missing values, transforms variables, and generates insights.
+This project implements a Data Pipeline for analyzing **loan approval dataset. The script (`data_pipeline.py`) processes loan approval data, handles missing values and transforms variables.
 
 # Project Structure
 - **data_pipeline.py**: Main script for the Data Pipeline.
