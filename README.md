@@ -16,6 +16,9 @@ The Data Pipeline follows the guidelines outlined in the project instructions.
 ## Additional Data Analysis
 In addition to the Data Pipeline, after the data pipeline phase, I utilized Excel to create graphs and pivot table to gain additional insights and Presented it in a presentation. 
 For Example:
+
+
+
 ![image](https://github.com/InbalTb/Data-Pipeline-Project/assets/132600292/31d37cda-8e8d-48cf-8080-203d643817b6)
 
 **Loan approval dataset is a collection of financial records and associated information used to determine the eligibility of individuals or organizations for obtaining loans from a lending institution.
