@@ -3,7 +3,7 @@ This project implements a Data Pipeline for analyzing loan data, including an In
 
 # Project Structure
 - **data_pipeline.py**: Main script for the Data Pipeline.
-   - Divided code into Ingestion and Transformation phases.
+Divided code into Ingestion and Transformation phases.
 - **loanapprovaldatasetbefore**: CSV file containing loan data. A continuous dependent variable (loan_amount) and 10 independent variables (continuous, categorical, binary).
        
 # Guidelines and Considerations
