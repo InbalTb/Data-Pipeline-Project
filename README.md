@@ -14,7 +14,7 @@ The Data Pipeline follows the guidelines outlined in the project instructions.
 - The script provides alerts about the percentage of rows deleted from the total data.
 
 ## Additional Data Analysis
-In addition to data pipeline, work was done in Excel and presentation of the insights in a PPT presentation in accordance with additional instructions for the project:
+In addition to data pipeline, the project was done with Excel and a PPT presentation of the insights accordance with additional instructions for the project:
 1. **Linear Relationships:** Check the linear relationship between each independent variable and the dependent variable.
 2. **Relationship Between Variables:** Check the relationship between each independent variable and other variables.
 3. **Pivot Table and Graphs:**
