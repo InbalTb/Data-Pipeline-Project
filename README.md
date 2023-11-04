@@ -9,7 +9,7 @@ This project implements a Data Pipeline for analyzing loan data, including an In
 Ensure you have the necessary dependencies installed (Pandas, tqdm, Matplotlib, scikit-learn).
 The Data Pipeline follows the guidelines outlined in the project instructions:
 1. **Prepare a Database:**
-   -A continuous dependent variable (loan_amount) and 10 independent variables (continuous, categorical, binary).
+   - A continuous dependent variable (loan_amount) and 10 independent variables (continuous, categorical, binary).
 
 2. **Variable Types and Ranges:**
    - For each variable, define the type (binary, categorical, continuous) and specify ranges and possible values.
