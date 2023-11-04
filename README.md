@@ -1,5 +1,5 @@
 # Data-Pipeline-Project
-This project implements a Data Pipeline for analyzing loan data, including an Ingestion phase and a Transformation phase. The script (`data_pipeline.py`) processes loan approcal data, handles missing values, transforms variables, and generates insights.
+This project implements a Data Pipeline for analyzing **loan approval dataset. The script (`data_pipeline.py`) processes loan approval data, handles missing values, transforms variables, and generates insights.
 
 # Project Structure
 - **data_pipeline.py**: Main script for the Data Pipeline.
@@ -23,4 +23,4 @@ In addition to data pipeline, work was done in Excel and presentation of the ins
    - Create suitable graphs according to variable types.    
 4. **Generate Insights:** Generate initial insights/hypotheses from the data. For Example:![image](https://github.com/InbalTb/Data-Pipeline-Project/assets/132600292/31d37cda-8e8d-48cf-8080-203d643817b6)
 
-
+**Loan approval dataset is a collection of financial records and associated information used to determine the eligibility of individuals or organizations for obtaining loans from a lending institution.
