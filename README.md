@@ -3,18 +3,17 @@ This project implements a Data Pipeline for analyzing **loan approval dataset. T
 
 # Project Structure
 - **data_pipeline.py**: Main script for the Data Pipeline.
-Divided code into Ingestion and Transformation phases.
 - **loanapprovaldatasetbefore**: CSV file containing loan approval data. A continuous dependent variable (loan_amount) and 10 independent variables (continuous, categorical, binary).
        
 # Guidelines and Considerations
-Ensure you have the necessary dependencies installed (Pandas, tqdm, Matplotlib, scikit-learn).
+Ensure you have the necessary dependencies installed (pandas, tqdm, math, sklearn).
 The Data Pipeline follows the guidelines outlined in the project instructions.
 
 # Alerts
 - The script provides alerts about the percentage of rows deleted from the total data.
 
 ## Additional Data Analysis
-In addition to the Data Pipeline, after the data pipeline phase, I utilized Excel to create graphs and pivot table to gain additional insights and Presented it in a presentation. 
+In addition to the Data Pipeline, after the data pipeline phase, I utilized Excel to create graphs and pivot table to gain additional insights and Presented it. 
 For Example:
 
 
